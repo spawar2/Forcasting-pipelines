@@ -1,5 +1,5 @@
-# Forcasting-pipelines
-[R: ForeCA]
+# Forcasting-pipelines.
+[R: ForeCA].
 [Paper Link:](https://link.springer.com/chapter/10.1007/978-981-16-2377-6_1)
 <img width="160" alt="Time Series" src="https://github.com/spawar2/Forcasting-pipelines/assets/25118302/e570f31c-6c41-47ea-8473-2af343cc5636">
 
@@ -8,5 +8,5 @@
 https://link.springer.com/chapter/10.1007/978-981-16-2377-6_1
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/6-ICICT.pptx
 https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
-Claflin University, Orangeburg, South Carolina, USA 
+Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
