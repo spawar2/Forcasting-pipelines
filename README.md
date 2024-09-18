@@ -10,3 +10,4 @@ https://campuspress.yale.edu/shrikantpawar/files/2024/05/6-ICICT.pptx
 https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
+https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
