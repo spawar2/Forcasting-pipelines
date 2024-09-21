@@ -12,4 +12,4 @@ Claflin University, Orangeburg, South Carolina, USA.
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 Forecasting.R: Data read, apply ForeCA, Correlation analysis.
-selected function(re.search,getROC_AUC, plot, as.numeric, sapply, as.numeric, unlist, svm, predict, Surv, survfit, surv_pvalue, foreca,ts)
+selected function(re.search,getROC_AUC, plot, as.numeric, sapply, as.numeric, unlist, svm, predict, Surv, survfit, surv_pvalue, foreca,ts).
