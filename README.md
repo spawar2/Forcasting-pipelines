@@ -13,5 +13,6 @@ https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 Forecasting.R: Data read, apply ForeCA, Correlation analysis.
 selected function(re.search,getROC_AUC, plot, as.numeric, sapply, as.numeric, unlist, svm, predict, Surv, survfit, surv_pvalue, foreca,ts).
-††
+††![download](https://github.com/user-attachments/assets/fda104d7-75e1-4756-a501-d75731429193)
+
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
